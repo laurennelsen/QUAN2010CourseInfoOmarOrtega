@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Course Schedule",
-  "body": " Course Schedule   The schedule for our course is below, but other important dates for the semester can be found at this link    Below is a tentative schedule for our course.  (This syllabus and the course schedules are subject to change.) QUAN 2010-006 (Thursdays 7:30pm - 10:05om):  "
+  "body": " Course Schedule   The schedule for our course is below, but other important dates for the semester can be found at this link    Below is a tentative schedule for our course.  (This syllabus and the course schedules are subject to change.)  QUAN 2010-006 (Thursdays 7:30pm - 10:05om):   "
 },
 {
   "id": "sec-course-schedule-2",
@@ -116,6 +116,42 @@ var ptx_lunr_docs = [
   "number": "1.3",
   "title": "",
   "body": " The schedule for our course is below, but other important dates for the semester can be found at this link   "
+},
+{
+  "id": "ch-quiz-problems",
+  "level": "1",
+  "url": "ch-quiz-problems.html",
+  "type": "Chapter",
+  "number": "2",
+  "title": "Quiz Problems",
+  "body": " Quiz Problems  Sometimes we will have quizzes in this course. More information about the quizzes will come, but here is a link where you can find example problems for a different section of QUAN 2010:    "
+},
+{
+  "id": "sec-exam-1-info",
+  "level": "1",
+  "url": "sec-exam-1-info.html",
+  "type": "Section",
+  "number": "",
+  "title": "Exam 1 Information",
+  "body": " Exam 1 Information  More information to come.  "
+},
+{
+  "id": "sec-exam-2-info",
+  "level": "1",
+  "url": "sec-exam-2-info.html",
+  "type": "Section",
+  "number": "",
+  "title": "Exam 2 Information",
+  "body": " Exam 2 Information  More information to come.  "
+},
+{
+  "id": "sec-final-exam-info",
+  "level": "1",
+  "url": "sec-final-exam-info.html",
+  "type": "Section",
+  "number": "",
+  "title": "Final Exam Information",
+  "body": " Final Exam Information  More information to come.  "
 },
 {
   "id": "backmatter-2",
