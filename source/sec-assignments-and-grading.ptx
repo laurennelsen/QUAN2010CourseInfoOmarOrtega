@@ -17,7 +17,7 @@
         <tabular>
             <row>
                 <cell>Quiz Objectives</cell>
-                <cell><m>25\%</m></cell>
+                <cell><m>15\%</m></cell>
             </row>
             <row>
                 <cell>MyLab Homework (Conceptual)</cell>
@@ -29,15 +29,15 @@
             </row>
             <row>
                 <cell>Exam 1</cell>
-                <cell><m>15\%</m></cell>
+                <cell><m>17.5\%</m></cell>
             </row>
             <row>
                 <cell>Exam 2</cell>
-                <cell><m>15\%</m></cell>
+                <cell><m>17.5\%</m></cell>
             </row>
             <row>
                 <cell>Final Exam</cell>
-                <cell><m>15\%</m></cell>
+                <cell><m>20\%</m></cell>
             </row>
             <row>
                 <cell>Total:</cell>
@@ -72,7 +72,7 @@
                 <p>
                     <em>Quizzes:</em>
                     <ul>
-                        <!--<li>
+                        <li>
                             <p>
                                 There will be several quizzes throughout the course.  Each of quizzes will be made up of several objectives.  You need to do the problem(s) corresponding to each objective perfectly to earn full credit for that objective. 
                             </p>
@@ -81,7 +81,7 @@
                             <p>
                                 On each of the days specified in the schedule, you will be allowed to re-try certain quizzes/objectives.  This will give you another chance to earn credit for objectives that you missed on your first attempt.  
                             </p>
-                        </li>-->
+                        </li>
                         <li>
                             <p>
                                 For quizzes you may use a 4x6 inch notecard, a basic, nonprogrammable calculator (no phone) and Excel (if the problem allows it).  
