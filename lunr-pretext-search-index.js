@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Course Schedule",
-  "body": " Course Schedule   The schedule for our course is below, but other important dates for the semester can be found at this link    Below is a tentative schedule for our course.  (This syllabus and the course schedules are subject to change.)  QUAN 2010-006 (Thursdays 7:30pm - 10:05om):   "
+  "body": " Course Schedule   The schedule for our course is below, but other important dates for the semester can be found at this link    Below is a tentative schedule for our course.  (This syllabus and the course schedules are subject to change.)  QUAN 2010-006 (Thursdays 7:30pm - 10:05om): Link to Course Schedule   "
 },
 {
   "id": "sec-course-schedule-2",
