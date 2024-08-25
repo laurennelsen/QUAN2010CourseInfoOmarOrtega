@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "   "
+  "body": "  copyright  "
 },
 {
   "id": "sec-COB-mission",
