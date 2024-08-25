@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Instructor Information",
-  "body": " Instructor Information   Welcome to QUAN 2010!    Instructor: Omar Ortega   Email: oortega@uccs.edu   Office Location: TBA   Office Hours: TBA   Course Communication  I do my best to reply to emails within 24 hours, but on weekends it may take longer.  I will use both Canvas and email to communicate with the class.   "
+  "body": " Instructor Information   Welcome to QUAN 2010!    Instructor: Omar Ortega   Email: oortega@uccs.edu   Office Location: Virtual   Office Hours: Tuesdays 6:30pm-7:30pm (Go to the “Zoom” tab on Canvas.)   Course Communication  I do my best to reply to emails within 24 hours, but on weekends it may take longer.  I will use both Canvas and email to communicate with the class.   "
 },
 {
   "id": "sec-opportunities-for-help",
